@@ -1,0 +1,8 @@
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\bin\Debug\SQLiteTester.exe.config
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\bin\Debug\SQLiteTester.exe
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\bin\Debug\SQLiteTester.pdb
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\bin\Debug\NPoco.dll
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\obj\Debug\SQLiteTester.csproj.CoreCompileInputs.cache
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\obj\Debug\SQLiteTester.csproj.CopyComplete
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\obj\Debug\SQLiteTester.exe
+C:\Users\venkat.Keka\source\repos\SQLiteTester\SQLiteTester\obj\Debug\SQLiteTester.pdb
