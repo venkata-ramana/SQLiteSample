@@ -10,6 +10,8 @@ Step 1:
 
 Step 2: 
 
+      add below code in your app.config
+
       <system.data>
       <DbProviderFactories>
       <remove invariant="System.Data.SQLite.EF6" />
@@ -21,6 +23,8 @@ Step 2:
 
 Step 3: 
 
+    add below code in your app.config
+    
     <connectionStrings>
     <add name="DefaultConnection" connectionString="Data Source = C:\db\test.db;" providerName="System.Data.SQLite" />
     </connectionStrings>
