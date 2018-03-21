@@ -1,4 +1,4 @@
-# SQLiteSample
+# SQLiteSample with c#
 
 This sample helps you to understand sqlite with NPoco.
 
